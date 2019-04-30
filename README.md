@@ -18,8 +18,8 @@ XAML basic note
 
 其中包含两个元素
 
-- <Window>元素
-- <Grid>元素
+- <Window> 元素
+- <Grid> 元素
 
 其中<Window>元素是一个顶级元素，在.xaml文件中，只能有一个顶级元素，通常用下面元素作为顶级元素：
 
@@ -34,11 +34,11 @@ XAML basic note
 
 - 名称空间：
 
-	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-	xmlns:local="clr-namespace:XAML_Learning"
+	 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	 xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	 xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	 xmlns:local="clr-namespace:XAML_Learning"
 
 - Title：标题属性
 - Height：高度属性
